@@ -1,6 +1,6 @@
 # My Introduction
 ## **👋 Helloooooooo, everyoneeeee!!!! 🦇**
-- 👶 I can't speak English hopelessly.
+- 🥶 I can't speak English hopelessly.
 - 🌱 I’m currently learning C# & HTML(CSS) & Java. (Maybe...)
 - 🤤 I want to learn JavaScript & jQuery
 - 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢
