@@ -1,6 +1,8 @@
 - 👋 Helloooooooo, everyoneeeee!!!! 🦇
 - 👶 I can't speak English hopelessly.
-- 🌱 I’m currently learning C# & HTML
+- 🌱 I’m currently learning C# & HTML & Java
+- 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢
+- 💤 I'm so sleepy everyday.
 
 <!---
 yaen333/yaen333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
