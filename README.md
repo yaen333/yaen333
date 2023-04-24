@@ -1,9 +1,8 @@
-# **👋 Helloooooooo, everyoneeeee!!!! 🦇**
+# **👋 こんちゃちゃちゃ!!!! 🦇**
 - 🥶 I can't speak English hopelessly.
 - 🌱 I’m currently learning C# & HTML(CSS) & Java. (Maybe...)
 - 🤤 I want to learn JavaScript & jQuery
-- 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢 📢
-- 💤 I'm so sleepy everyday.
+- 💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤
 
 ## Links
 - 🐦 **Twitter →→→ [やえんさんのTwitter](https://twitter.com/yaendayo)**
