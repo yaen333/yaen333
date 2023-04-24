@@ -5,8 +5,7 @@
 - 💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤💤
 
 ## Links
-- 🐦 **Twitter →→→ [やえんさんのTwitter](https://twitter.com/yaendayo)**
-- :octocat: **GitHub →→→ [やえんさんのGitHub](https://github.com/yaen333)**
+- 🐦 **Twitter →→→ [やえんさんのついった～](https://twitter.com/yaendayo)**
 
 ![Twitter Banner](https://pbs.twimg.com/profile_banners/1348266173041836032/1622398798/1500x500)
 
